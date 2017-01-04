@@ -1,0 +1,26 @@
+# Zilvertron 
+
+
+Zilvertron B.V. is een jonge onderneming met een volwassen historie in de wereld van de kleine aandrijftechniek. Ons specialisme is het leveren en creëren van Mechatronica oplossingen in de business to business markt, in het LOW-TECH en HIGH-TECH bereik. Van het toeleveren van aandrijftechnische componenten tot het volledig realiseren van totaal oplossingen. Meer.. Schakel ons in bij uw innovatie en ervaar onze meerwaarde!
+
+## Wat maken wij? 
+
+## Wat willen wij? (vraagstuk)
+
+Wij zijn op zoek naar een 
+
+- Radiaal
+- Stille aandrijving ( < 40 dB ) 
+- Torque < (80 cmN / 0.8 Nm) 
+- Lage RPM (15 RPM)
+- Gearbox ja/nee
+- Encoder ja/nee
+- Slipkoppeling
+- Minimale afmetingen (max. =  ) 
+- Elektro
+	- max ... V 
+	- max ... A)
+
+Wij denken dat een brushless motor het stilste is, maar die heeft weer een hoog aantal toeren. 
+
+
