@@ -23,7 +23,8 @@ Chronologish / S.M.A.R.T. gedefinieerd
 	(Waarbij ook een afgekaderd klantsegment is geïdentificeerd.) 
 
 	*De 'step up' is een korte test-fase waarbij we Somnox met allerlei 'toeters en bellen' aan de gebruiker presenteren. Om te identificeren welke functies van échte meerwaarde zijn. Dit om te achterhalen wat de echte reden achter het gebruiken van Somnox is.
-	**Stappen die hiervoor volgen zijn o.a. QFD analysis en diverse focus groepen.
+	**Stappen die hiervoor volgen zijn o.a. QFD analysis en diverse focus groepen.  
+	
 **Verantwoordelijke:** Julian Jagtenberg
 	
 -----------------
@@ -34,7 +35,8 @@ Chronologish / S.M.A.R.T. gedefinieerd
 
 	*die is geüpdate a.h.v. productie partner kosten
 	** Dit business moet van dermate kwaliteit zijn dat we deze 'met trots' kunnen inleveren bij bv. een VC. Meet the VC's is de 		'track' daar naar toe. 
-	*** Ook de PHIA (Philips Innovation Awards 2017) spelen daarbij een rol.
+	*** Ook de PHIA (Philips Innovation Awards 2017) spelen daarbij een rol.  
+	
 	
 **Verantwoordelijke:** Wouter Kooyman van Guldener
 	
