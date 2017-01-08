@@ -8,7 +8,7 @@
 
 ## 6 Month Main Goal
 
-__Op *29 Mei 2017* hebben wij, Somnox, *50* product bestellingen* die we binnen *2 maanden* kunnen leveren.__
+__Op *29 Mei 2017* hebben wij, Somnox, *50* producten verkocht* die we binnen *2 maanden* kunnen leveren.__
 
 *dit bestaat uit de volgende randvoorwaarden > Milestones. Deze dienen waar te zijn om het Main Goal te kunnen behalen. 
 
