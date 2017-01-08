@@ -25,7 +25,15 @@ Chronologish / S.M.A.R.T. gedefinieerd
 	*De 'step up' is een korte test-fase waarbij we Somnox met allerlei 'toeters en bellen' aan de gebruiker presenteren. Om te identificeren welke functies van échte meerwaarde zijn. Dit om te achterhalen wat de echte reden achter het gebruiken van Somnox is.
 	**Stappen die hiervoor volgen zijn o.a. QFD analysis en diverse focus groepen.  
 	
-**Verantwoordelijke:** Julian Jagtenberg
+**Verantwoordelijke:** Julian Jagtenberg  
+  
+    
+      
+        
+	  
+	    
+	      
+	      
 	
 -----------------
 
