@@ -41,7 +41,7 @@ Chronologish / S.M.A.R.T. gedefinieerd
 
 **Certificatie**
 
-- Op 20 April 2017 weten wij wat de eisen zijn van benodigde certificatie (o.a. CE) en ons model en projectplanning zijn daarop ingesteld. 
+- Op [20 April 2017] weten wij wat de eisen zijn van benodigde certificatie (o.a. CE) en ons model en projectplanning zijn daarop ingesteld. 
 
 	*die zich houden aan certificatie in EU 'CE' en gebruiksvoorwaarden
 
@@ -54,19 +54,19 @@ Chronologish / S.M.A.R.T. gedefinieerd
 
 **Pre Clinical** 
 
-- Op 29 Mei 2017 hebben wij een wetenschappelijk onderzoek die minstens subjectieve significantie aantoont op basis van minstens 1 van onze claims of fame*. 
+- Op [29 Mei 2017] hebben wij een wetenschappelijk onderzoek die minstens subjectieve significantie aantoont op basis van minstens 1 van onze claims of fame*. 
 
 	*reduced SOL, less time awake, more energized during the day 
 
 **Sales / Marketing**
 
-- Op 29 Mei 2017 willen wij minstens 50 product bestellingen* hebben. Daarbij hebben we minstens 300 mensen een aanbod gedaan tot aankoop.
+- Op [29 Mei 2017] willen wij minstens 50 product bestellingen* hebben. Daarbij hebben we minstens 300 mensen een aanbod gedaan tot aankoop.
 
 	*hier vallen ook de prototypes die eerder zijn verkocht tijdens de 'certificatie'-fase onder  
 
 **Testimonials**
 
-- Op 29 Mei 2017 willen wij resultaten zien van 50 surveys waarvan 60% aangeeft Somnox aan te raden (9/10) aan een derde. 
+- Op [29 Mei 2017] willen wij resultaten zien van 50 surveys waarvan 60% aangeeft Somnox aan te raden (9/10) aan een derde. 
 
 
 
