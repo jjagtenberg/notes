@@ -18,7 +18,7 @@ Chronologish / S.M.A.R.T. gedefinieerd
 
 **Step Up**
 
-- Op [15 februari 2017]  hebben we Somnox uitontwikkeld tot een minimum viable product (MVP). Waarbij we in ieder geval één tastbaar prototype hebben die zich houdt aan de requirements die worden gedefinieerd tijdens de step up*. 
+- Op [15 februari 2017]  hebben we Somnox uitontwikkeld tot een minimum viable product (MVP). Waarbij we in ieder geval >1 tastbaar prototype hebben die zich houdt aan de requirements die worden gedefinieerd tijdens de step up*. 
 
 	(Waarbij ook een afgekaderd klantsegment is geïdentificeerd.) 
 
@@ -27,17 +27,17 @@ Chronologish / S.M.A.R.T. gedefinieerd
 
 **Geld**
 
-- Op [15 Maart 2017], willen een business plan (zoals gedefinieerd in het New Venture boek) inclusief financial plan* hebben toegestuurd naar tenminste 1 investeerder**. 
+- Op [15 Maart 2017], is er een business plan (zoals gedefinieerd in het New Venture boek) inclusief financial plan* die we minstens hebben toegestuurd naar >1 investeerder**. 
 
 	*die is geüpdate a.h.v. productie partner kosten
-	** Dit business moet van dermate kwaliteit zijn dat we deze 'met trots' kunnen inleveren bij bv. een VC. Meet the VC's is de 'track' daar naar toe. 
+	** Dit business moet van dermate kwaliteit zijn dat we deze 'met trots' kunnen inleveren bij bv. een VC. Meet the VC's is de 		'track' daar naar toe. 
 	*** Ook de PHIA (Philips Innovation Awards) spelen daarbij een rol.
 
 **IP**
 
 - Op [15 April 2017] willen wij een duurzaam competitief voordeel hebben gerealiseerd door IP*.
 
-	*ten minste 1 octrooi gefiled (met meerdere claims // filter model) hebben, uitspraak door een octrooigemachtige, merk- en modelrecht in tenminste Europa
+	*ten minste 1 octrooi gefiled (met meerdere claims // filter model) hebben, uitspraak door een octrooigemachtige (EP&C), merk- en modelrecht in tenminste Europa
 
 **Certificatie**
 
@@ -49,7 +49,7 @@ Chronologish / S.M.A.R.T. gedefinieerd
   
 - Op [15 Mei 2017], hebben we de juiste productie- opslag- en distributie- partners geïdentificeerd waarmee we ook een contract / offerte** hebben om in ieder geval de kickstarter te kunnen dekken. (n < 2000).
 
-	*het MVP dat is gedefinieerd in technische tekeningen en een bill of materials (B.O.M.)
+	*het MVP is gedefinieerd in technische tekeningen en een bill of materials (B.O.M.)
 	** a.h.v. deze offertes kan het financiële plan beter worden uitgewerkt. 
 
 **Pre Clinical** 
