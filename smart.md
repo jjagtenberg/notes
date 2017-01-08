@@ -33,7 +33,7 @@ Chronologish / S.M.A.R.T. gedefinieerd
 	** Dit business moet van dermate kwaliteit zijn dat we deze 'met trots' kunnen inleveren bij bv. een VC. Meet the VC's is de 		'track' daar naar toe. 
 	*** Ook de PHIA (Philips Innovation Awards 2017) spelen daarbij een rol.
 	
-	
+-----------------	
 
 **IP**
 
