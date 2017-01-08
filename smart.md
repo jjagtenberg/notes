@@ -25,19 +25,6 @@ Chronologish / S.M.A.R.T. gedefinieerd
 	*De 'step up' is een korte test-fase waarbij we Somnox met allerlei 'toeters en bellen' aan de gebruiker presenteren. Om te identificeren welke functies van échte meerwaarde zijn. Dit om te achterhalen wat de echte reden achter het gebruiken van Somnox is.
 	**Stappen die hiervoor volgen zijn o.a. QFD analysis en diverse focus groepen.
 
-**Productie**
-  
-- Op [15 Mei 2017], hebben we de juiste productie- opslag- en distributie- partners geïdentificeerd waarmee we ook een contract / offerte** hebben om in ieder geval de kickstarter te kunnen dekken. (n < 2000).
-
-	*het MVP dat is gedefinieerd in technische tekeningen en een bill of materials (B.O.M.)
-	** a.h.v. deze offertes kan het financiële plan beter worden uitgewerkt. 
-
-**IP**
-
-- Op [15 April 2017] willen wij een duurzaam competitief voordeel hebben gerealiseerd door IP*.
-
-	*ten minste 1 octrooi gefiled (met meerdere claims // filter model) hebben, uitspraak door een octrooigemachtige, merk- en modelrecht in tenminste Europa
-
 **Geld**
 
 - Op [15 Maart 2017], willen een business plan (zoals gedefinieerd in het New Venture boek) inclusief financial plan* hebben toegestuurd naar tenminste 1 investeerder**. 
@@ -46,11 +33,24 @@ Chronologish / S.M.A.R.T. gedefinieerd
 	** Dit business moet van dermate kwaliteit zijn dat we deze 'met trots' kunnen inleveren bij bv. een VC. Meet the VC's is de 'track' daar naar toe. 
 	*** Ook de PHIA (Philips Innovation Awards) spelen daarbij een rol.
 
+**IP**
+
+- Op [15 April 2017] willen wij een duurzaam competitief voordeel hebben gerealiseerd door IP*.
+
+	*ten minste 1 octrooi gefiled (met meerdere claims // filter model) hebben, uitspraak door een octrooigemachtige, merk- en modelrecht in tenminste Europa
+
 **Certificatie**
 
 - Op 20 April 2017 weten wij wat de eisen zijn van benodigde certificatie (o.a. CE) en ons model en projectplanning zijn daarop ingesteld. 
 
 	*die zich houden aan certificatie in EU 'CE' en gebruiksvoorwaarden
+
+**Productie**
+  
+- Op [15 Mei 2017], hebben we de juiste productie- opslag- en distributie- partners geïdentificeerd waarmee we ook een contract / offerte** hebben om in ieder geval de kickstarter te kunnen dekken. (n < 2000).
+
+	*het MVP dat is gedefinieerd in technische tekeningen en een bill of materials (B.O.M.)
+	** a.h.v. deze offertes kan het financiële plan beter worden uitgewerkt. 
 
 **Pre Clinical** 
 
