@@ -24,6 +24,8 @@ Chronologish / S.M.A.R.T. gedefinieerd
 
 	*De 'step up' is een korte test-fase waarbij we Somnox met allerlei 'toeters en bellen' aan de gebruiker presenteren. Om te identificeren welke functies van échte meerwaarde zijn. Dit om te achterhalen wat de echte reden achter het gebruiken van Somnox is.
 	**Stappen die hiervoor volgen zijn o.a. QFD analysis en diverse focus groepen.
+	
+-----------------
 
 **Geld**
 
@@ -41,11 +43,15 @@ Chronologish / S.M.A.R.T. gedefinieerd
 
 	*ten minste 1 octrooi gefiled (met meerdere claims // filter model) hebben, uitspraak door een octrooigemachtige (EP&C), merk- en modelrecht in tenminste Europa
 
+-----------------
+
 **Certificatie**
 
 - Op [20 April 2017] weten wij wat de eisen zijn van benodigde certificatie (o.a. CE) en ons model en projectplanning zijn daarop ingesteld. 
 
 	*die zich houden aan certificatie in EU 'CE' en gebruiksvoorwaarden
+	
+-----------------
 
 **Productie**
   
@@ -53,18 +59,24 @@ Chronologish / S.M.A.R.T. gedefinieerd
 
 	*het MVP is gedefinieerd in technische tekeningen en een bill of materials (B.O.M.)
 	** a.h.v. deze offertes kan het financiële plan beter worden uitgewerkt. 
+	
+-----------------
 
 **Pre Clinical** 
 
 - Op [29 Mei 2017] hebben wij een wetenschappelijk onderzoek die minstens subjectieve significantie aantoont op basis van minstens 1 van onze claims of fame*. 
 
 	*reduced SOL, less time awake, more energized during the day 
+	
+-----------------
 
 **Sales / Marketing**
 
 - Op [29 Mei 2017] willen wij minstens 50 product bestellingen* hebben. Daarbij hebben we minstens 300 mensen een aanbod gedaan tot aankoop.
 
 	*hier vallen ook de prototypes die eerder zijn verkocht tijdens de 'certificatie'-fase onder  
+	
+-----------------
 
 **Testimonials**
 
