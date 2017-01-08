@@ -24,6 +24,7 @@ Chronologish / S.M.A.R.T. gedefinieerd
 
 	*De 'step up' is een korte test-fase waarbij we Somnox met allerlei 'toeters en bellen' aan de gebruiker presenteren. Om te identificeren welke functies van échte meerwaarde zijn. Dit om te achterhalen wat de echte reden achter het gebruiken van Somnox is.
 	**Stappen die hiervoor volgen zijn o.a. QFD analysis en diverse focus groepen.
+**Verantwoordelijke:** Julian Jagtenberg
 	
 -----------------
 
@@ -35,6 +36,8 @@ Chronologish / S.M.A.R.T. gedefinieerd
 	** Dit business moet van dermate kwaliteit zijn dat we deze 'met trots' kunnen inleveren bij bv. een VC. Meet the VC's is de 		'track' daar naar toe. 
 	*** Ook de PHIA (Philips Innovation Awards 2017) spelen daarbij een rol.
 	
+**Verantwoordelijke:** Wouter Kooyman van Guldener
+	
 -----------------	
 
 **IP**
@@ -42,6 +45,8 @@ Chronologish / S.M.A.R.T. gedefinieerd
 - Op [15 April 2017] willen wij een duurzaam competitief voordeel hebben gerealiseerd door IP*.
 
 	*ten minste 1 octrooi gefiled (met meerdere claims // filter model) hebben, uitspraak door een octrooigemachtige (EP&C), merk- en modelrecht in tenminste Europa
+	
+**Verantwoordelijke:** Job Engel
 
 -----------------
 
@@ -50,6 +55,7 @@ Chronologish / S.M.A.R.T. gedefinieerd
 - Op [20 April 2017] weten wij wat de eisen zijn van benodigde certificatie (o.a. CE) en ons model en projectplanning zijn daarop ingesteld. 
 
 	*die zich houden aan certificatie in EU 'CE' en gebruiksvoorwaarden
+**Verantwoordelijke:** Stijn Antonisse
 	
 -----------------
 
@@ -58,7 +64,8 @@ Chronologish / S.M.A.R.T. gedefinieerd
 - Op [15 Mei 2017], hebben we de juiste productie- opslag- en distributie- partners geïdentificeerd waarmee we ook een contract / offerte** hebben om in ieder geval de kickstarter te kunnen dekken. (n < 2000).
 
 	*het MVP is gedefinieerd in technische tekeningen en een bill of materials (B.O.M.)
-	** a.h.v. deze offertes kan het financiële plan beter worden uitgewerkt. 
+	** a.h.v. deze offertes kan het financiële plan beter worden uitgewerkt.
+**Verantwoordelijke:** Julian Jagtenberg
 	
 -----------------
 
@@ -67,6 +74,7 @@ Chronologish / S.M.A.R.T. gedefinieerd
 - Op [29 Mei 2017] hebben wij een wetenschappelijk onderzoek die minstens subjectieve significantie aantoont op basis van minstens 1 van onze claims of fame*. 
 
 	*reduced SOL, less time awake, more energized during the day 
+**Verantwoordelijke:** Indy van der Heijden
 	
 -----------------
 
@@ -76,11 +84,15 @@ Chronologish / S.M.A.R.T. gedefinieerd
 
 	*hier vallen ook de prototypes die eerder zijn verkocht tijdens de 'certificatie'-fase onder  
 	
+**Verantwoordelijke:** Julian Jagtenberg
+	
 -----------------
 
 **Testimonials**
 
 - Op [29 Mei 2017] willen wij resultaten zien van 50 surveys waarvan 60% aangeeft Somnox aan te raden (9/10) aan een derde. 
+
+**Verantwoordelijke:** Stijn Antonisse
 
 
 
