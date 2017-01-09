@@ -76,7 +76,7 @@ Chronologish / S.M.A.R.T. gedefinieerd
 
 **Pre Clinical** 
 
-- Op [29 Mei 2017] hebben wij een wetenschappelijk onderzoek die minstens subjectieve significantie aantoont op basis van minstens 1 van onze claims of fame*. 
+- Op [29 Mei 2017] hebben wij een wetenschappelijk onderzoek die minstens subjectieve significantie aantoont op basis van minstens 1 van onze claims of fame*. Daarnaast is er white paper geschreven met alle ondersteunende (bestaande) literatuur voor de werking van Somnox.  
 
 	*reduced SOL, less time awake, more energized during the day   
 	
