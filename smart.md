@@ -106,7 +106,7 @@ Chronologish / S.M.A.R.T. gedefinieerd
 **Testimonials**
 
 - Op [29 Mei 2017] willen wij resultaten zien van 50 surveys waarvan 60% aangeeft Somnox aan te raden (9/10) aan een derde.  
-
+Een gevalideerd product-market fit is gevonden zodra 40% van de gebruikers aangeeft uitermate teleurgesteld te zijn bij het wegnemen van het aangeboden product. 
 
 **Verantwoordelijke:** Stijn Antonisse
 
