@@ -96,7 +96,7 @@ Chronologish / S.M.A.R.T. gedefinieerd
 
 - Op [29 Mei 2017] willen wij minstens 50 product bestellingen* hebben. Daarbij hebben we minstens 300 mensen een aanbod gedaan tot aankoop.
 
-	*hier vallen ook de prototypes die eerder zijn verkocht tijdens de 'certificatie'-fase onder    
+	*hier vallen ook de prototypes die eerder zijn verkocht tijdens de 'certificatie'-fase onder. Hiermee wordt dus ook de willingness to pay gevalideerd. (lees: wij willen facturen hebben verstuurd per bestelling en de betaalgegevens binnen e.g. creditcard etc).     
 	
 	
 **Verantwoordelijke:** Julian Jagtenberg
